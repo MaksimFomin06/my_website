@@ -1,0 +1,15 @@
+.header_img {
+    width: 1920px;
+    height: 371px;
+}
+.header_container{
+    display: block;
+    background-color: aqua;
+    text-decoration: none;
+}
+.header_container ul{
+}
+.header_container ul li{
+    display: inline;
+    list-style-type: none;
+}
